@@ -1,0 +1,10 @@
+
+numpy
+tensorflow
+cv2
+flask
+werkzeug
+matplotlib
+keras
+sklearn
+pandas
